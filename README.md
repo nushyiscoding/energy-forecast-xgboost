@@ -6,7 +6,7 @@
 
 ## Project Overview
 
-This project builds a production-ready time series forecasting model to predict hourly energy consumption for the PJM interconnection grid. Using XGBoost with engineered temporal features and lag variables, the model achieves **89% accuracy** and significantly outperforms naive baselines.
+This project builds a production-ready time series forecasting model to predict hourly energy consumption for the PJM interconnection grid. Using XGBoost with engineered temporal features and lag variables, the model achieves **89% accuracy** and significantly outperforms naive baselines. $x^2$
 
 **Business Value**: Accurate load forecasting enables grid stability, optimized power purchasing, and reduced operational costs. A 1% improvement in forecast accuracy can save millions annually.
 
