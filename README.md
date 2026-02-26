@@ -16,7 +16,7 @@ This project builds a production-ready time series forecasting model to predict 
 
 | Metric | Value | Interpretation |
 |--------|-------|----------------|
-| **Model Accuracy** | 89.1% | Predictions within 11% of actual values |
+| **Model Accuracy** | 88.1% | Predictions within 11% of actual values |
 | **RMSE** | ~3,456 MW | Average prediction error |
 | **vs Baseline** | 29.3% better | Outperforms "same hour last week" forecast |
 | **Top Features** | Month (31%), Hour (29%) | Model learns real seasonal & daily patterns |
