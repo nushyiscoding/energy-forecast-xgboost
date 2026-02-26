@@ -23,7 +23,7 @@ This project builds a production-ready time series forecasting model to predict 
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python** - Core programming language
 - **Pandas/NumPy** - Data manipulation and analysis
